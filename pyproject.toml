@@ -1,7 +1,7 @@
 [project]
-name = "vpwenv"
+name = "tone-ico-data-access"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python distribution for TONe ICO data access"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
