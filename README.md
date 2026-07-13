@@ -1,6 +1,6 @@
 # Access to TONe Integrated Cloud Observatory data repos
 
-This repo contains a [tutorial notebook](tutorial_tone_ico_data_access.ipynb) and the definition of a Python virtual environment (.python-verions, pyproject.toml, uv.lock) for accessing data repos from the Troll Observing Network's Integrated Cloud Observatory.
+This repo contains a [tutorial notebook](tutorial_tone_ico_data_access.ipynb) and the definition of a Python virtual environment (.python-version, pyproject.toml, uv.lock) for accessing data repos from the Troll Observing Network's Integrated Cloud Observatory.
 
 ## STEP 1) Create a reproducible Python virtual environment
 
